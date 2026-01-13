@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>專業英文縮寫查詢</title>
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- 標題 + Powered by 並排 -->
+    <div class="header-bar">
+        <h1 class="app-title" id="appTitle">專業英文縮寫查詢</h1>
+        <span class="powered">Powered by Cody Li</span>
+    </div>
+
+    <!-- 工具列 -->
+    <div class="toolbar">
+        <div class="source-container">
+            <label for="sourceSelect" style="font-size: 14px; color: #8e8e93;">資料庫：</label>
+            <select id="sourceSelect" class="ios-select">
+                <option value="data.json">預設資料庫</option>
+                <option value="custom">自定義 URL...</option>
+            </select>
+        </div>
+        <div class="action-container">
+            <button id="addItemBtn" class="ios-button">
+                <span class="material-icons">add</span>
+                新增項目
+            </button>
+            <button id="exportCsvBtn" class="ios-button">
+                <span class="material-icons">ios_share</span>
+                匯出 CSV
+            </button>
+        </div>
+    </div>
+
+    <!-- 新增項目 Modal -->
+    <div id="addModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="modal-title">新增縮寫項目</span>
+                <span class="close">&times;</span>
+            </div>
+            <div class="input-group">
+                <label>縮寫 (Abbr)</label>
+                <input type="text" id="newAbbr" class="ios-input" placeholder="例如: SS">
+            </div>
+            <div class="input-group">
+                <label>全稱 (Full Name)</label>
+                <input type="text" id="newFull" class="ios-input" placeholder="例如: Shipping Setting">
+            </div>
+            <div class="input-group">
+                <label>中文 (Chinese)</label>
+                <input type="text" id="newZh" class="ios-input" placeholder="例如: 出貨設定">
+            </div>
+            <div class="modal-footer">
+                <button id="saveItemBtn" class="ios-button"
+                    style="background: #007aff; color: #fff; border: none;">儲存</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-box" placeholder="輸入縮寫或關鍵字…" />
+    </div>
+
+    <div id="results" class="result">
+        <div class="no-result">載入中…</div>
+    </div>
+
+    <div id="tooltip" class="tooltip"></div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

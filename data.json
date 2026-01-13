@@ -1,0 +1,1660 @@
+{
+  "title": "專業英文縮寫查詢",
+  "items": [
+    {
+      "abbr": "SS",
+      "full": "Shipping Setting",
+      "zh": "出貨設定"
+    },
+    {
+      "abbr": "STM*",
+      "full": "Site Technical Manager",
+      "zh": "工廠技術經理"
+    },
+    {
+      "abbr": "SW",
+      "full": "Software",
+      "zh": "軟體"
+    },
+    {
+      "abbr": "SWDL*",
+      "full": "Software Download",
+      "zh": "軟體下載"
+    },
+    {
+      "abbr": "SWR",
+      "full": "Special Work Request",
+      "zh": "特殊工作需求作業單"
+    },
+    {
+      "abbr": "T/T",
+      "full": "TAKT TIME",
+      "zh": "節拍時間"
+    },
+    {
+      "abbr": "TA",
+      "full": "Take Apart",
+      "zh": "拆開"
+    },
+    {
+      "abbr": "TE/FA Lab",
+      "full": "TE/FA Lab",
+      "zh": "不良品測試實驗室"
+    },
+    {
+      "abbr": "THD",
+      "full": "Total Harmonic Distortion",
+      "zh": "總諧波失真"
+    },
+    {
+      "abbr": "TIM",
+      "full": "Total Inventory Management",
+      "zh": "全面庫存管理"
+    },
+    {
+      "abbr": "TMS",
+      "full": "Transportation Management System",
+      "zh": "運輸管理系統"
+    },
+    {
+      "abbr": "TPM*",
+      "full": "Technical Project Manager",
+      "zh": "技術專案經理"
+    },
+    {
+      "abbr": "TRP",
+      "full": "Total Radiated Power",
+      "zh": "總輻射功率"
+    },
+    {
+      "abbr": "TWS",
+      "full": "True Wireless Stereo",
+      "zh": "真無線立體聲"
+    },
+    {
+      "abbr": "UAT",
+      "full": "User Acceptance Test",
+      "zh": "用戶接受度測試"
+    },
+    {
+      "abbr": "UF",
+      "full": "Underfill",
+      "zh": "底部填充膠"
+    },
+    {
+      "abbr": "ULD",
+      "full": "Unit Load Device",
+      "zh": "（貨物）貨櫃設備"
+    },
+    {
+      "abbr": "UPH*",
+      "full": "Units Per Hour",
+      "zh": "單位小時產出"
+    },
+    {
+      "abbr": "UPPH",
+      "full": "Units Per People Per Hour",
+      "zh": "單位小時人均產出"
+    },
+    {
+      "abbr": "USW",
+      "full": "Ultrasonic Welding",
+      "zh": "超音波焊"
+    },
+    {
+      "abbr": "UUT",
+      "full": "Unit Under Test",
+      "zh": "待測單元"
+    },
+    {
+      "abbr": "RMA",
+      "full": "Return Material Authorization",
+      "zh": "退貨授權"
+    },
+    {
+      "abbr": "ROI",
+      "full": "Return on Investment",
+      "zh": "投資報酬率"
+    },
+    {
+      "abbr": "RPN",
+      "full": "Risk Priority Number",
+      "zh": "風險關鍵指數"
+    },
+    {
+      "abbr": "RR*",
+      "full": "Risk Ramp",
+      "zh": "風險爬坡"
+    },
+    {
+      "abbr": "RRT",
+      "full": "Rolling Reliability Test",
+      "zh": "持續可靠性測試實驗室"
+    },
+    {
+      "abbr": "RTR",
+      "full": "Retest Rate",
+      "zh": "複測率"
+    },
+    {
+      "abbr": "RTY",
+      "full": "Rolled Throughput Yield",
+      "zh": "累計直通率"
+    },
+    {
+      "abbr": "RVC",
+      "full": "Regional Value Content",
+      "zh": "區域價值成分"
+    },
+    {
+      "abbr": "S, I & OP",
+      "full": "Sales, Inventory & Operations Planning",
+      "zh": "銷售，庫存與運作計劃"
+    },
+    {
+      "abbr": "S/N*",
+      "full": "Serial Number",
+      "zh": "序號"
+    },
+    {
+      "abbr": "SA",
+      "full": "Sub-Assy",
+      "zh": "零組件"
+    },
+    {
+      "abbr": "SAP",
+      "full": "System Applications and Products in Data",
+      "zh": "企業管理解決方案"
+    },
+    {
+      "abbr": "",
+      "full": "Processing",
+      "zh": ""
+    },
+    {
+      "abbr": "SBE",
+      "full": "Supply Base Engineer",
+      "zh": "供應基地工程師"
+    },
+    {
+      "abbr": "SCM",
+      "full": "Supply Chain Management",
+      "zh": "供應鏈管理"
+    },
+    {
+      "abbr": "SDE",
+      "full": "Supply Demand Execution",
+      "zh": "供應需求執行"
+    },
+    {
+      "abbr": "SDM",
+      "full": "Supply Demand Management",
+      "zh": "供應需求管理"
+    },
+    {
+      "abbr": "SFC",
+      "full": "Shop Floor Control",
+      "zh": "生產車間集中控制管理系統"
+    },
+    {
+      "abbr": "SFG",
+      "full": "Semi-Finished Goods",
+      "zh": "半成品"
+    },
+    {
+      "abbr": "SFIS",
+      "full": "Shop Floor Integrated System",
+      "zh": "現場資訊鱉合系統"
+    },
+    {
+      "abbr": "SFLEX",
+      "full": "Supply Flexibility",
+      "zh": "供應彈性"
+    },
+    {
+      "abbr": "SIP",
+      "full": "Standard Inspection Procedure",
+      "zh": "標準檢騎稈序"
+    },
+    {
+      "abbr": "PDT*",
+      "full": "Product Development Team",
+      "zh": "產品開發團隊"
+    },
+    {
+      "abbr": "PFC",
+      "full": "Process Flow Chart",
+      "zh": "製程流程圖"
+    },
+    {
+      "abbr": "PFMEA*",
+      "full": "Process Failure Mode and Effects Analysis",
+      "zh": "過程失效模式及後果分析"
+    },
+    {
+      "abbr": "PGI",
+      "full": "Post Goods Issue",
+      "zh": "（倉庫）出貨過帳"
+    },
+    {
+      "abbr": "PLC*",
+      "full": "Product Life Cycle",
+      "zh": "產品生命週期"
+    },
+    {
+      "abbr": "PLM*",
+      "full": "Product Lifecycle Management",
+      "zh": "產品生命週期管理"
+    },
+    {
+      "abbr": "PMC",
+      "full": "Production & Materials Control",
+      "zh": "生產與物料控制"
+    },
+    {
+      "abbr": "PMP",
+      "full": "Product Management Plan",
+      "zh": "產品管理計劃"
+    },
+    {
+      "abbr": "PO*",
+      "full": "Purchase Order",
+      "zh": "採購訂單"
+    },
+    {
+      "abbr": "POP",
+      "full": "Packing Operation Process",
+      "zh": "包裝作業規範"
+    },
+    {
+      "abbr": "POC",
+      "full": "Project Office Center/Proof of Concept",
+      "zh": "專案管理中心/概念驗證"
+    },
+    {
+      "abbr": "POR",
+      "full": "Plan of Record",
+      "zh": "記錄計劃"
+    },
+    {
+      "abbr": "POTD",
+      "full": "Production On-time Delivery",
+      "zh": "生產及時達成率"
+    },
+    {
+      "abbr": "PPAP",
+      "full": "Production Part Approval Process",
+      "zh": "生產件批准"
+    },
+    {
+      "abbr": "P-part*",
+      "full": "Personalized Parts",
+      "zh": "客製化產品"
+    },
+    {
+      "abbr": "PPS",
+      "full": "Pick Pack Ship",
+      "zh": "揀貨、包裝、出貨"
+    },
+    {
+      "abbr": "PQC",
+      "full": "Process Quality Control",
+      "zh": "製程品質管控"
+    },
+    {
+      "abbr": "PQM*",
+      "full": "Product Quality Manager",
+      "zh": "產品品質經理"
+    },
+    {
+      "abbr": "PQP*",
+      "full": "Product Quality Plan",
+      "zh": "產品品質計劃"
+    },
+    {
+      "abbr": "PR",
+      "full": "Purchase Request",
+      "zh": "採購申請"
+    },
+    {
+      "abbr": "PRQ",
+      "full": "Post Ramp Qualification",
+      "zh": "量產後驗證"
+    },
+    {
+      "abbr": "MTTR",
+      "full": "Mean Time to Repair",
+      "zh": "平均故障恢復時間"
+    },
+    {
+      "abbr": "MVA",
+      "full": "Manufacturing Value-Added",
+      "zh": "製造附加價值"
+    },
+    {
+      "abbr": "NDA",
+      "full": "Non-disclosure Agreement",
+      "zh": "保密協議"
+    },
+    {
+      "abbr": "NG*",
+      "full": "Not Good",
+      "zh": "不良，不合格"
+    },
+    {
+      "abbr": "NPI*",
+      "full": "New Product Introduction",
+      "zh": "新產品導入"
+    },
+    {
+      "abbr": "NPO",
+      "full": "New Program Operation",
+      "zh": "新項目營運"
+    },
+    {
+      "abbr": "NRE",
+      "full": "Non-Recurring Engineering",
+      "zh": "一次性工程（費用）"
+    },
+    {
+      "abbr": "NTE",
+      "full": "Not to Exceed",
+      "zh": "不能超過"
+    },
+    {
+      "abbr": "NTF",
+      "full": "No Trouble Found",
+      "zh": "良品，合格"
+    },
+    {
+      "abbr": "OBA*",
+      "full": "Open Box Assurance",
+      "zh": "開箱檢驗"
+    },
+    {
+      "abbr": "OCI",
+      "full": "Odd Component Insertion",
+      "zh": "奇型元件插入"
+    },
+    {
+      "abbr": "OCT",
+      "full": "Order Cycle Time",
+      "zh": "訂單週期時間"
+    },
+    {
+      "abbr": "ODM",
+      "full": "Original Design Manufacturer",
+      "zh": "原始設計製造商"
+    },
+    {
+      "abbr": "OEE",
+      "full": "Overall Equipment Efficiency",
+      "zh": "設備綜合效率"
+    },
+    {
+      "abbr": "OEM",
+      "full": "Original Equipment Manufacturer",
+      "zh": "原始設備製造商"
+    },
+    {
+      "abbr": "OK2MP",
+      "full": "OK To Mass Production",
+      "zh": "可大批量生產"
+    },
+    {
+      "abbr": "OMS",
+      "full": "Order Management System",
+      "zh": "訂單管理系統"
+    },
+    {
+      "abbr": "OOH",
+      "full": "Obsolete on Hand",
+      "zh": "在庫呆"
+    },
+    {
+      "abbr": "00O",
+      "full": "Obsolete Open Order",
+      "zh": "在供方處呆"
+    },
+    {
+      "abbr": "OPE",
+      "full": "Overall Plant Efficiency",
+      "zh": "整體工廠效率（人員綜合效率）"
+    },
+    {
+      "abbr": "OPM*",
+      "full": "Operation Project Manager",
+      "zh": "營運專案經理"
+    },
+    {
+      "abbr": "IPD",
+      "full": "Integrated Product Development",
+      "zh": "整合產品開發"
+    },
+    {
+      "abbr": "IPQC*",
+      "full": "Input Process Quality Control",
+      "zh": "製程控制"
+    },
+    {
+      "abbr": "IQC*",
+      "full": "Incoming Quality Control",
+      "zh": "來料控制"
+    },
+    {
+      "abbr": "ITO",
+      "full": "Inventory Turn Over",
+      "zh": "庫存週轉率"
+    },
+    {
+      "abbr": "JDM",
+      "full": "Joint Design Manufacturer",
+      "zh": "聯合設計製造商"
+    },
+    {
+      "abbr": "JIT",
+      "full": "Just in Time",
+      "zh": "準時制"
+    },
+    {
+      "abbr": "JMET",
+      "full": "Joint Mobile Engineering Team",
+      "zh": "聯合移動工程團隊（系統）"
+    },
+    {
+      "abbr": "JTAG",
+      "full": "Joint Test Action Group",
+      "zh": "聯合測試行為組織"
+    },
+    {
+      "abbr": "KDW",
+      "full": "Key Design Win",
+      "zh": "關鍵設計勝利"
+    },
+    {
+      "abbr": "L/C",
+      "full": "Letter of Credit",
+      "zh": "信用證"
+    },
+    {
+      "abbr": "LBU*",
+      "full": "Line Bring Up",
+      "zh": "線體架設"
+    },
+    {
+      "abbr": "LCA",
+      "full": "Life Cycle Assessment",
+      "zh": "生命週期評估"
+    },
+    {
+      "abbr": "LF",
+      "full": "Lead Free (Pb-Free)",
+      "zh": "無鉛"
+    },
+    {
+      "abbr": "LGA",
+      "full": "Land Grid Array",
+      "zh": "平面網格陣列封裝"
+    },
+    {
+      "abbr": "LLP",
+      "full": "Package type: Leadless Lead frame Package",
+      "zh": "封裝方式：無鉛引線框架封裝"
+    },
+    {
+      "abbr": "LPY",
+      "full": "Last Pass Yield",
+      "zh": "最終良率"
+    },
+    {
+      "abbr": "LQ'",
+      "full": "Line qual",
+      "zh": "線體驗證"
+    },
+    {
+      "abbr": "LT",
+      "full": "Lead Time",
+      "zh": "週期"
+    },
+    {
+      "abbr": "MCO",
+      "full": "Manufacturing Change Order",
+      "zh": "生產改變要求"
+    },
+    {
+      "abbr": "MCOS",
+      "full": "Materials Cost of Sold",
+      "zh": "銷售物料成本"
+    },
+    {
+      "abbr": "MDA",
+      "full": "Master Data Accuracy",
+      "zh": "主數據準確性"
+    },
+    {
+      "abbr": "FA*",
+      "full": "Failure Analysis",
+      "zh": "失效分析"
+    },
+    {
+      "abbr": "FACA*",
+      "full": "Failure Analysis & Corrective Action",
+      "zh": "不良分析及改善措施"
+    },
+    {
+      "abbr": "FACT*",
+      "full": "Final Acoustics Control Test",
+      "zh": "最終聲學控制測試"
+    },
+    {
+      "abbr": "FAE",
+      "full": "Failure Analysis Engineer",
+      "zh": "失效分析工程"
+    },
+    {
+      "abbr": "FAI*",
+      "full": "First Article Inspection",
+      "zh": "首件檢驗"
+    },
+    {
+      "abbr": "FATP",
+      "full": "Final Assembly Testing and Packaging",
+      "zh": "最終組裝測試包裝"
+    },
+    {
+      "abbr": "FCA",
+      "full": "Free Carrier",
+      "zh": "免費承運人"
+    },
+    {
+      "abbr": "FCST",
+      "full": "Forecast",
+      "zh": "預測預測需求"
+    },
+    {
+      "abbr": "FCT",
+      "full": "Functional Circuit Test",
+      "zh": "電路功能測試"
+    },
+    {
+      "abbr": "FD",
+      "full": "Forward Deployment",
+      "zh": "提前部署"
+    },
+    {
+      "abbr": "FDR",
+      "full": "Factory Data Recovery/Restore",
+      "zh": "工程數據復原"
+    },
+    {
+      "abbr": "FG*",
+      "full": "Finish Goods",
+      "zh": "成品"
+    },
+    {
+      "abbr": "FIFO",
+      "full": "First in First out",
+      "zh": "先進先出"
+    },
+    {
+      "abbr": "FMEA*",
+      "full": "Failure Mode and Effects Analysis",
+      "zh": "不良模式失效分析"
+    },
+    {
+      "abbr": "FOB",
+      "full": "Free on Board",
+      "zh": "離岸價格"
+    },
+    {
+      "abbr": "FOC",
+      "full": "Free of Charge",
+      "zh": "免費"
+    },
+    {
+      "abbr": "FPCA",
+      "full": "Flexible Printed Circuit Assembly",
+      "zh": "柔性印刷電路組件"
+    },
+    {
+      "abbr": "Fpy",
+      "full": "First Pass Yield",
+      "zh": "一次直通率"
+    },
+    {
+      "abbr": "FOA",
+      "full": "Final Quality Assurance",
+      "zh": "最終品質保證"
+    },
+    {
+      "abbr": "FR",
+      "full": "Frequency Radio",
+      "zh": "射頻"
+    },
+    {
+      "abbr": "FRB*",
+      "full": "Fixture Readiness Build",
+      "zh": "治具準備試製"
+    },
+    {
+      "abbr": "CC",
+      "full": "Conformal coating",
+      "zh": "保形塗層"
+    },
+    {
+      "abbr": "CCD",
+      "full": "Charge Coupled Device",
+      "zh": "自動光學檢測設備"
+    },
+    {
+      "abbr": "CCT",
+      "full": "Corelative Color Temperature",
+      "zh": "相關色溫"
+    },
+    {
+      "abbr": "CET*",
+      "full": "Customer End Test",
+      "zh": "客戶端測試"
+    },
+    {
+      "abbr": "CIF",
+      "full": "Cost Insurance and Freight",
+      "zh": "到岸價格"
+    },
+    {
+      "abbr": "CIP",
+      "full": "Carriage and Insurance Paid to",
+      "zh": "運費和保險費"
+    },
+    {
+      "abbr": "CM*",
+      "full": "Contract Manufacturer",
+      "zh": "合約製造商"
+    },
+    {
+      "abbr": "COB",
+      "full": "Close of Business",
+      "zh": "業務關閉"
+    },
+    {
+      "abbr": "CoC",
+      "full": "Certificate of Conformity",
+      "zh": "符合性報告"
+    },
+    {
+      "abbr": "COPO",
+      "full": "Call Off PO",
+      "zh": "Hub倉提貨訂單"
+    },
+    {
+      "abbr": "CPAR",
+      "full": "Corrective & Preventive Actions Request",
+      "zh": "糾正與預防措施請求"
+    },
+    {
+      "abbr": "CPFR",
+      "full": "Collaborative Planning, Forecasting & Replenishment",
+      "zh": "協同計畫、預測與補貨"
+    },
+    {
+      "abbr": "CPK",
+      "full": "Process Capability Index",
+      "zh": "過程能力指標"
+    },
+    {
+      "abbr": "CPL",
+      "full": "Critical Parts List",
+      "zh": "關鍵物料清單"
+    },
+    {
+      "abbr": "CPP",
+      "full": "Critical Process (and Test) Parameters",
+      "zh": "重要製程參數"
+    },
+    {
+      "abbr": "CPTO*",
+      "full": "Cupertino",
+      "zh": "庫佩蒂諾（U01總部所在地）"
+    },
+    {
+      "abbr": "CQA",
+      "full": "Customer Quality Assurance Control Run",
+      "zh": "客戶品質保證試產"
+    },
+    {
+      "abbr": "CRB",
+      "full": "Customer Return Board",
+      "zh": "客戶返修板"
+    },
+    {
+      "abbr": "CRM",
+      "full": "Customers Relationship Management",
+      "zh": "客戶關係管理"
+    },
+    {
+      "abbr": "CSP",
+      "full": "Continual Sampling Plan",
+      "zh": "連續抽樣計劃"
+    },
+    {
+      "abbr": "ARPA*",
+      "full": "U01 Restricted Project Acknowledgement",
+      "zh": "U01項目保密協議"
+    },
+    {
+      "abbr": "ADC",
+      "full": "Analog Digital Converter",
+      "zh": "類比數位轉換器"
+    },
+    {
+      "abbr": "ALT",
+      "full": "Accelerated Life Test",
+      "zh": "加速壽命測試"
+    },
+    {
+      "abbr": "AMR",
+      "full": "American Region",
+      "zh": "美國地區"
+    },
+    {
+      "abbr": "AOE",
+      "full": "U01 Operations Europe",
+      "zh": "UO1歐洲營運公司"
+    },
+    {
+      "abbr": "AOI*",
+      "full": "Automated Optical Inspection",
+      "zh": "自動光學檢驗"
+    },
+    {
+      "abbr": "AOS",
+      "full": "U01 Online Store",
+      "zh": "U01線上商店"
+    },
+    {
+      "abbr": "AOU",
+      "full": "U01 Own Unit",
+      "zh": "U01所有產品"
+    },
+    {
+      "abbr": "APD",
+      "full": "Account Payable Days",
+      "zh": "應付天數"
+    },
+    {
+      "abbr": "APN*",
+      "full": "U01 Parts Number",
+      "zh": "UO1的零件編號"
+    },
+    {
+      "abbr": "APO",
+      "full": "U01 Procurement Operations",
+      "zh": "U01採購業務"
+    },
+    {
+      "abbr": "APQP",
+      "full": "Advanced Product Quality Planning",
+      "zh": "產品先期策劃"
+    },
+    {
+      "abbr": "APR",
+      "full": "U01 Pack Request",
+      "zh": "U01包裝需求"
+    },
+    {
+      "abbr": "APS",
+      "full": "Advanced Planning System",
+      "zh": "先期規劃系統"
+    },
+    {
+      "abbr": "ARD",
+      "full": "Account Receivable Days",
+      "zh": "應收款天數"
+    },
+    {
+      "abbr": "ARS",
+      "full": "Automatic Replenishment System",
+      "zh": "自動補貨系統"
+    },
+    {
+      "abbr": "ASN",
+      "full": "Advanced Shipping Notice",
+      "zh": "預出貨通知"
+    },
+    {
+      "abbr": "ATO",
+      "full": "Assemble-to-order",
+      "zh": "按訂單組裝"
+    },
+    {
+      "abbr": "ATP",
+      "full": "Available to Promise",
+      "zh": "承諾可得性"
+    },
+    {
+      "abbr": "AVL",
+      "full": "Approved Vendor List",
+      "zh": "合格供應商名錄"
+    },
+    {
+      "abbr": "B/L",
+      "full": "Bill of Lading",
+      "zh": "提單"
+    },
+    {
+      "abbr": "UVP",
+      "full": "Under Voltage Protective",
+      "zh": "低電壓保護"
+    },
+    {
+      "abbr": "& V Lab",
+      "full": "Noise & Vibration Lab",
+      "zh": "噪音及震動實驗室"
+    },
+    {
+      "abbr": "VI",
+      "full": "Visual Inspection",
+      "zh": "外觀檢驗"
+    },
+    {
+      "abbr": "VMI",
+      "full": "Vendor Managed Inventory",
+      "zh": "供應商管理庫存"
+    },
+    {
+      "abbr": "VOC",
+      "full": "Voice of Customer",
+      "zh": "客戶的聲音"
+    },
+    {
+      "abbr": "VSM",
+      "full": "Value Stream Mapping",
+      "zh": "價值流程圖"
+    },
+    {
+      "abbr": "WCB",
+      "full": "Wireless Charger Base",
+      "zh": "無線充電板"
+    },
+    {
+      "abbr": "WDN",
+      "full": "Weekly Delivery Notice",
+      "zh": "每週出貨單"
+    },
+    {
+      "abbr": "WGT/IOS",
+      "full": "WGT/IOS Lab",
+      "zh": "白手套/操作系統實驗室"
+    },
+    {
+      "abbr": "WH*",
+      "full": "Warehouse",
+      "zh": "倉庫"
+    },
+    {
+      "abbr": "WIP",
+      "full": "Work in Process",
+      "zh": "在製品"
+    },
+    {
+      "abbr": "WM",
+      "full": "Warehouse Management",
+      "zh": "倉庫管理"
+    },
+    {
+      "abbr": "WMS",
+      "full": "Warehouse Management System",
+      "zh": "倉庫管理系統"
+    },
+    {
+      "abbr": "WO",
+      "full": "Work Order",
+      "zh": "生產工單"
+    },
+    {
+      "abbr": "WOS",
+      "full": "Weeks of Supply",
+      "zh": "可供應週數"
+    },
+    {
+      "abbr": "YoY",
+      "full": "Year over (on) Year",
+      "zh": "•年同比"
+    },
+    {
+      "abbr": "SIP",
+      "full": "System in Package",
+      "zh": "系統包裝"
+    },
+    {
+      "abbr": "SI POC",
+      "full": "Supplier/Input/Process/Output/Customer",
+      "zh": "供應者、輸入、流程、輸出、客戶"
+    },
+    {
+      "abbr": "SLA",
+      "full": "Service Level Agreement",
+      "zh": "服務等級協議"
+    },
+    {
+      "abbr": "SMA",
+      "full": "Surface Mount Adhesives",
+      "zh": "表面貼片膠"
+    },
+    {
+      "abbr": "SMD",
+      "full": "Surface Mounting Device",
+      "zh": "表面貼裝設備"
+    },
+    {
+      "abbr": "SMED",
+      "full": "Single Minute Exchange of Die",
+      "zh": "快速換產"
+    },
+    {
+      "abbr": "SMH",
+      "full": "Standard Man Hour",
+      "zh": "標準人力工時"
+    },
+    {
+      "abbr": "SMT*",
+      "full": "Surface Mount Technology",
+      "zh": "表面貼裝技術"
+    },
+    {
+      "abbr": "SO",
+      "full": "Sales Order",
+      "zh": "銷售訂單"
+    },
+    {
+      "abbr": "SOC",
+      "full": "System on Chip",
+      "zh": "系統"
+    },
+    {
+      "abbr": "SOP",
+      "full": "Standard Operating Procedures",
+      "zh": "標準作業指導書"
+    },
+    {
+      "abbr": "S-OTD",
+      "full": "Supply On-time Delivery",
+      "zh": "供應商及時交付率"
+    },
+    {
+      "abbr": "SOW*",
+      "full": "Statement of Work",
+      "zh": "工作說明書"
+    },
+    {
+      "abbr": "SP",
+      "full": "Sourcing & Purchasing",
+      "zh": "採購"
+    },
+    {
+      "abbr": "SPC",
+      "full": "Statistical Process Control",
+      "zh": "統計過程管制"
+    },
+    {
+      "abbr": "SPI",
+      "full": "Solder Paste Inspection",
+      "zh": "錫膏厚度測試儀"
+    },
+    {
+      "abbr": "SPM'",
+      "full": "Sourcing Project Manager",
+      "zh": "採購專案經理"
+    },
+    {
+      "abbr": "SQE*",
+      "full": "Supplier Quality Engineer",
+      "zh": "供應商品質工程師"
+    },
+    {
+      "abbr": "SRAS",
+      "full": "Security Requirements for U01 Suppliers",
+      "zh": "U01供應商安全保密要求"
+    },
+    {
+      "abbr": "SRM",
+      "full": "Supplier Relationship Management",
+      "zh": "供應商關係管理"
+    },
+    {
+      "abbr": "Ss",
+      "full": "Safety Stock",
+      "zh": "安全庫存"
+    },
+    {
+      "abbr": "PS",
+      "full": "Production Scheduling",
+      "zh": "排產計劃"
+    },
+    {
+      "abbr": "PSD",
+      "full": "Production Status Data",
+      "zh": "生產狀態數據"
+    },
+    {
+      "abbr": "PSI",
+      "full": "Purchase Supply Inventory",
+      "zh": "採購供應庫存"
+    },
+    {
+      "abbr": "PVT*",
+      "full": "Process Verification Test",
+      "zh": "流程驗證測試"
+    },
+    {
+      "abbr": "QA*",
+      "full": "Quality Assurance",
+      "zh": "品質保證"
+    },
+    {
+      "abbr": "QAH",
+      "full": "Quality Hold",
+      "zh": "品質叫停"
+    },
+    {
+      "abbr": "QBR*",
+      "full": "Quarterly Business Review",
+      "zh": "季度性商務會議"
+    },
+    {
+      "abbr": "QCC",
+      "full": "Quality Control Circle",
+      "zh": "品管圈"
+    },
+    {
+      "abbr": "QIT",
+      "full": "Quality Improvement Team",
+      "zh": "品質改進團隊"
+    },
+    {
+      "abbr": "QMS",
+      "full": "Quality Management System",
+      "zh": "品質管理體系"
+    },
+    {
+      "abbr": "QRQC",
+      "full": "Quick Response Quality Control",
+      "zh": "快速反應品質控制"
+    },
+    {
+      "abbr": "QT",
+      "full": "Quality Test",
+      "zh": "品質測試"
+    },
+    {
+      "abbr": "QTD",
+      "full": "Quarter to Date",
+      "zh": "季初至今"
+    },
+    {
+      "abbr": "R&B",
+      "full": "Rub & Buzz",
+      "zh": "，異常音"
+    },
+    {
+      "abbr": "RCCP",
+      "full": "Rough Cut Capacity Planning",
+      "zh": "粗產能規劃"
+    },
+    {
+      "abbr": "RE*",
+      "full": "Reliability Test",
+      "zh": "可靠性驗證"
+    },
+    {
+      "abbr": "RF*",
+      "full": "Radio Frequency",
+      "zh": "射頻"
+    },
+    {
+      "abbr": "RF Lab",
+      "full": "RF Lab",
+      "zh": "射頻實驗室"
+    },
+    {
+      "abbr": "RFI*",
+      "full": "Request for Information",
+      "zh": "產品資訊需求"
+    },
+    {
+      "abbr": "RFP*",
+      "full": "Request for Proposal",
+      "zh": "產品方案需求"
+    },
+    {
+      "abbr": "RFQ'",
+      "full": "Request for Quotation",
+      "zh": "產品報價需求"
+    },
+    {
+      "abbr": "OPO",
+      "full": "Open Purchase Order",
+      "zh": "未結訂單"
+    },
+    {
+      "abbr": "OPS",
+      "full": "Operations",
+      "zh": "營運"
+    },
+    {
+      "abbr": "OQC",
+      "full": "Outgoing Quality Control",
+      "zh": "出貨品質控制"
+    },
+    {
+      "abbr": "ORD",
+      "full": "Operations Requirement Document",
+      "zh": "操作需求文件"
+    },
+    {
+      "abbr": "ORT*",
+      "full": "Ongoing Reliability Test",
+      "zh": "連續可靠性測試"
+    },
+    {
+      "abbr": "OS",
+      "full": "Optical Sensor",
+      "zh": "光學感測器"
+    },
+    {
+      "abbr": "OSS",
+      "full": "On Site Service",
+      "zh": "工廠服務"
+    },
+    {
+      "abbr": "OTA",
+      "full": "Over the Air",
+      "zh": "無線電測試"
+    },
+    {
+      "abbr": "OTD*",
+      "full": "On-time Delivery",
+      "zh": "及時交付率"
+    },
+    {
+      "abbr": "OTDC",
+      "full": "On-time Delivery to Commitment",
+      "zh": "面向承諾的及時交付率"
+    },
+    {
+      "abbr": "OTDD",
+      "full": "On-time Delivery to Demand",
+      "zh": "面向需求的及時交付率"
+    },
+    {
+      "abbr": "P/N*",
+      "full": "Part Number",
+      "zh": "料號"
+    },
+    {
+      "abbr": "PA",
+      "full": "Packing Assembly",
+      "zh": "包裝"
+    },
+    {
+      "abbr": "PB",
+      "full": "Prototype Build",
+      "zh": "首版模樣品試製"
+    },
+    {
+      "abbr": "PCB*",
+      "full": "Printed Circuit Board",
+      "zh": "印刷電路板"
+    },
+    {
+      "abbr": "",
+      "full": "Printed Circuit Board Assembly",
+      "zh": "印刷電路板組件"
+    },
+    {
+      "abbr": "PCM",
+      "full": "Productive Circuit Module",
+      "zh": "保護電路模組"
+    },
+    {
+      "abbr": "PCN",
+      "full": "Process Change Notice",
+      "zh": "製程變更通知"
+    },
+    {
+      "abbr": "PD*",
+      "full": "Product Design",
+      "zh": "產品設計"
+    },
+    {
+      "abbr": "PD/EE Lab",
+      "full": "PD/EE Lab",
+      "zh": "結構/硬體實驗室"
+    },
+    {
+      "abbr": "PDCS",
+      "full": "Process Defect Correcting Sheet",
+      "zh": "製程誤差改正單"
+    },
+    {
+      "abbr": "ME",
+      "full": "Mechanical Engineer",
+      "zh": "結構工程師"
+    },
+    {
+      "abbr": "MES",
+      "full": "Manufacturing Execution System",
+      "zh": "製造執行系統"
+    },
+    {
+      "abbr": "MFG*",
+      "full": "anutacturine",
+      "zh": "製造"
+    },
+    {
+      "abbr": "MIH*",
+      "full": "Material in House",
+      "zh": "物料到廠"
+    },
+    {
+      "abbr": "MIL'",
+      "full": "Major Issue List",
+      "zh": "未關閉事項明細"
+    },
+    {
+      "abbr": "MLB'",
+      "full": "Main Logic Board",
+      "zh": "主機板"
+    },
+    {
+      "abbr": "MOQ",
+      "full": "Minimum Order Quantity",
+      "zh": "最小訂單量"
+    },
+    {
+      "abbr": "MP",
+      "full": "Mass Production",
+      "zh": "穩定量產"
+    },
+    {
+      "abbr": "MP/SP",
+      "full": "Multiple/Single Pack",
+      "zh": "單體包/多體包"
+    },
+    {
+      "abbr": "MPM*",
+      "full": "Material Project Manager",
+      "zh": "物料專案經理"
+    },
+    {
+      "abbr": "MPN",
+      "full": "Manufacturer Part Number",
+      "zh": "製造商產品編號"
+    },
+    {
+      "abbr": "MPQ",
+      "full": "Minimum Package Quantity",
+      "zh": "最小包裝量"
+    },
+    {
+      "abbr": "MPS",
+      "full": "Master Production Schedule",
+      "zh": "主生產計劃"
+    },
+    {
+      "abbr": "MRB",
+      "full": "Material Review Board",
+      "zh": "材料審查會議"
+    },
+    {
+      "abbr": "MRP",
+      "full": "Material Requirements Planning",
+      "zh": "物料需求計劃"
+    },
+    {
+      "abbr": "MSA",
+      "full": "Measure System Analysis",
+      "zh": "量測系統分析"
+    },
+    {
+      "abbr": "MSE",
+      "full": "Measurement Systems Evaluation",
+      "zh": "測量系統評估"
+    },
+    {
+      "abbr": "SM",
+      "full": "Materials Program Manager",
+      "zh": "物料計劃經理"
+    },
+    {
+      "abbr": "MTBF",
+      "full": "Mean Time Between Failure",
+      "zh": "平均故障間隔時間"
+    },
+    {
+      "abbr": "MTO",
+      "full": "Make to Order",
+      "zh": "面向訂單生產"
+    },
+    {
+      "abbr": "MTS",
+      "full": "Make to Stock",
+      "zh": "面向庫存生產"
+    },
+    {
+      "abbr": "FW*",
+      "full": "Firmware",
+      "zh": "分位"
+    },
+    {
+      "abbr": "FWDL*",
+      "full": "Firmware Download",
+      "zh": "韌體下載"
+    },
+    {
+      "abbr": "GB*",
+      "full": "General Build",
+      "zh": "半成品"
+    },
+    {
+      "abbr": "GCM*",
+      "full": "Global Commodity Manager",
+      "zh": "全球商品經理"
+    },
+    {
+      "abbr": "GFSK",
+      "full": "Gaussian Frequency Shift Keying",
+      "zh": "高斯頻移鍵控"
+    },
+    {
+      "abbr": "GPIB",
+      "full": "General Purpose Interface Bus",
+      "zh": "通用介面匯流排"
+    },
+    {
+      "abbr": "GPS",
+      "full": "Goertek Production System",
+      "zh": "歌爾製造系統"
+    },
+    {
+      "abbr": "GR&R*",
+      "full": "Gauge Repetition and Reappearance",
+      "zh": "量具的再現性與再生性"
+    },
+    {
+      "abbr": "GSM*",
+      "full": "Global Supply Manager",
+      "zh": "全球供應鏈經理"
+    },
+    {
+      "abbr": "HC*",
+      "full": "Headcount",
+      "zh": "人數"
+    },
+    {
+      "abbr": "Hi-Fi",
+      "full": "High Fidelity",
+      "zh": "高保真"
+    },
+    {
+      "abbr": "HWTE*",
+      "full": "Hardware Testing Engineer",
+      "zh": "硬體測試工程師"
+    },
+    {
+      "abbr": "IC",
+      "full": "Integrated Circuit",
+      "zh": "積體電路板"
+    },
+    {
+      "abbr": "ICT",
+      "full": "In Circuit Test",
+      "zh": "線上測試"
+    },
+    {
+      "abbr": "ID",
+      "full": "Industry Design",
+      "zh": "工業設計"
+    },
+    {
+      "abbr": "IDA",
+      "full": "Inventory Data Accuracy",
+      "zh": "庫存數據準確性"
+    },
+    {
+      "abbr": "IDL*",
+      "full": "Indirect Labor",
+      "zh": "間接作業人力"
+    },
+    {
+      "abbr": "IKW",
+      "full": "Internal Kaizen Workshop",
+      "zh": "內部改善週活動"
+    },
+    {
+      "abbr": "IM",
+      "full": "Inventory Management",
+      "zh": "庫存管理"
+    },
+    {
+      "abbr": "lOS",
+      "full": "Input/Output/Store",
+      "zh": "投入產出發貨報表"
+    },
+    {
+      "abbr": "IP",
+      "full": "Inventory Planner",
+      "zh": "庫存規劃員"
+    },
+    {
+      "abbr": "CSR",
+      "full": "Cooperate Social Responsibility",
+      "zh": "企業社會責任"
+    },
+    {
+      "abbr": "CTB*",
+      "full": "Clear to Build",
+      "zh": "套料計劃"
+    },
+    {
+      "abbr": "CTP",
+      "full": "Critical to Process",
+      "zh": "關鍵品質過程"
+    },
+    {
+      "abbr": "CTQ",
+      "full": "Critical to Quality Plan",
+      "zh": "關鍵品質特性"
+    },
+    {
+      "abbr": "DAF",
+      "full": "Delivered at Frontier",
+      "zh": "前沿交付"
+    },
+    {
+      "abbr": "DAP",
+      "full": "Delivered at Place",
+      "zh": "目的地交貨"
+    },
+    {
+      "abbr": "DCN",
+      "full": "Design Change Notice",
+      "zh": "設計變更通知"
+    },
+    {
+      "abbr": "DDP",
+      "full": "Delivered Duty Paid",
+      "zh": "完稅後交貨"
+    },
+    {
+      "abbr": "DDU",
+      "full": "Delivered Duty Unpaid",
+      "zh": "未完稅交貨"
+    },
+    {
+      "abbr": "Development Builds",
+      "full": "Prototype, EVT, DVT, PVT Builds",
+      "zh": "開發階段"
+    },
+    {
+      "abbr": "DFA",
+      "full": "Design for Assembly",
+      "zh": "可組裝性設計"
+    },
+    {
+      "abbr": "DFM*",
+      "full": "Design for Manufacture",
+      "zh": "可製造性設計"
+    },
+    {
+      "abbr": "DFMEA",
+      "full": "Design Failure Mode and Effects Analysis",
+      "zh": "設計失效模式及後果分析"
+    },
+    {
+      "abbr": "DFR",
+      "full": "Design for Rework",
+      "zh": "可維修性設計"
+    },
+    {
+      "abbr": "DFT",
+      "full": "Design for Testability",
+      "zh": "可測試性設計"
+    },
+    {
+      "abbr": "DFU",
+      "full": "Device Firmware Upgrade",
+      "zh": "設備韌體的升級模式"
+    },
+    {
+      "abbr": "DFX",
+      "full": "Design for Excellent",
+      "zh": "最優化設計"
+    },
+    {
+      "abbr": "DL*",
+      "full": "Direct Labor",
+      "zh": "直接人力"
+    },
+    {
+      "abbr": "DMM",
+      "full": "Digital Multimeter",
+      "zh": "數位萬用電錶"
+    },
+    {
+      "abbr": "DN",
+      "full": "Delivery Note",
+      "zh": "交貨單"
+    },
+    {
+      "abbr": "DOE*",
+      "full": "Design of Experiment",
+      "zh": "實驗設計"
+    },
+    {
+      "abbr": "",
+      "full": "Barcode",
+      "zh": "條碼"
+    },
+    {
+      "abbr": "BGA",
+      "full": "Ball Grid Array",
+      "zh": "球狀網格陣列"
+    },
+    {
+      "abbr": "Biz Ops®",
+      "full": "Business Operation",
+      "zh": "商務營運"
+    },
+    {
+      "abbr": "BMC",
+      "full": "Bill of Material Cost",
+      "zh": "物料清單成本"
+    },
+    {
+      "abbr": "BMS",
+      "full": "Basic Motion Study",
+      "zh": "基本動作研究法"
+    },
+    {
+      "abbr": "BOC*",
+      "full": "Business Opportunity Conference",
+      "zh": "商機會議"
+    },
+    {
+      "abbr": "BOH/EOH",
+      "full": "Beginning/Ending on Hand",
+      "zh": "期初庫存/期末庫存"
+    },
+    {
+      "abbr": "BOM*",
+      "full": "Bill of Material",
+      "zh": "物料清單"
+    },
+    {
+      "abbr": "BOQ",
+      "full": "Beginning of Quarter",
+      "zh": "季度初期"
+    },
+    {
+      "abbr": "BPR",
+      "full": "Business Planning Resource",
+      "zh": "商業規劃資源"
+    },
+    {
+      "abbr": "BRMA",
+      "full": "Batch Return Material Authorization",
+      "zh": "大量退貨授權"
+    },
+    {
+      "abbr": "BS",
+      "full": "Buffer Stock",
+      "zh": "緩衝庫存"
+    },
+    {
+      "abbr": "BSC",
+      "full": "Base Station Control",
+      "zh": "基地台控制器"
+    },
+    {
+      "abbr": "BT*",
+      "full": "Bluetooth Test",
+      "zh": "藍牙測試"
+    },
+    {
+      "abbr": "BTO",
+      "full": "Build to Order",
+      "zh": "面向訂單生產"
+    },
+    {
+      "abbr": "BTS",
+      "full": "Base Transceiver Station",
+      "zh": "基地台收發信機"
+    },
+    {
+      "abbr": "C/T*",
+      "full": "Cycle Time",
+      "zh": "週期時間"
+    },
+    {
+      "abbr": "C2C",
+      "full": "Cash to Cash",
+      "zh": "現金週期"
+    },
+    {
+      "abbr": "Capex®",
+      "full": "Capital Expenditures",
+      "zh": "資本支出"
+    },
+    {
+      "abbr": "CAR",
+      "full": "Correction Action Report",
+      "zh": "改善報告"
+    },
+    {
+      "abbr": "CB",
+      "full": "Control Bit",
+      "zh": "控制位"
+    }
+  ]
+}
