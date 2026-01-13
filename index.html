@@ -23,20 +23,19 @@
     <!-- 工具列 -->
     <div class="toolbar">
         <div class="source-container">
-            <label for="sourceSelect" style="font-size: 14px; color: #8e8e93;">資料庫：</label>
             <select id="sourceSelect" class="ios-select">
                 <option value="data.json">預設資料庫</option>
                 <option value="custom">自定義 URL...</option>
             </select>
         </div>
         <div class="action-container">
-            <button id="addItemBtn" class="ios-button">
+            <button id="addItemBtn" class="ios-button accent">
                 <span class="material-icons">add</span>
                 新增項目
             </button>
-            <button id="exportCsvBtn" class="ios-button">
+            <button id="showExportBtn" class="ios-button">
                 <span class="material-icons">ios_share</span>
-                匯出 CSV
+                匯出
             </button>
         </div>
     </div>
@@ -49,20 +48,36 @@
                 <span class="close">&times;</span>
             </div>
             <div class="input-group">
-                <label>縮寫 (Abbr)</label>
-                <input type="text" id="newAbbr" class="ios-input" placeholder="例如: SS">
+                <input type="text" id="newAbbr" class="ios-input" placeholder="縮寫 (Abbr), 例如: SS">
             </div>
             <div class="input-group">
-                <label>全稱 (Full Name)</label>
-                <input type="text" id="newFull" class="ios-input" placeholder="例如: Shipping Setting">
+                <input type="text" id="newFull" class="ios-input" placeholder="全稱 (Full Name), 例如: Shipping Setting">
             </div>
             <div class="input-group">
-                <label>中文 (Chinese)</label>
-                <input type="text" id="newZh" class="ios-input" placeholder="例如: 出貨設定">
+                <input type="text" id="newZh" class="ios-input" placeholder="中文 (Chinese), 例如: 出貨設定">
             </div>
             <div class="modal-footer">
-                <button id="saveItemBtn" class="ios-button"
-                    style="background: #007aff; color: #fff; border: none;">儲存</button>
+                <button id="saveItemBtn" class="ios-button" style="color: var(--accent-color);">儲存項目</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 匯出選項 Modal -->
+    <div id="exportModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="modal-title">選擇匯出格式</span>
+                <span class="close">&times;</span>
+            </div>
+            <div class="export-options">
+                <div id="exportCsvBtn" class="export-item">
+                    <span class="material-icons" style="color: #4caf50;">description</span>
+                    <span>CSV 檔案</span>
+                </div>
+                <div id="exportJsonBtn" class="export-item">
+                    <span class="material-icons" style="color: #ff9800;">code</span>
+                    <span>JSON 檔案</span>
+                </div>
             </div>
         </div>
     </div>
