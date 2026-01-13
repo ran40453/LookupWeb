@@ -299,3 +299,126 @@ body {
     margin-bottom: 8px;
     display: block;
 }
+
+/* 主要布局容器 */
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 80px 1fr 280px;
+    gap: 30px;
+    align-items: start;
+}
+
+@media (max-width: 1024px) {
+    .app-container {
+        grid-template-columns: 80px 1fr;
+    }
+
+    .right-sidebar {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .app-container {
+        grid-template-columns: 1fr;
+    }
+
+    .left-sidebar {
+        display: none;
+    }
+}
+
+.left-sidebar,
+.right-sidebar {
+    position: sticky;
+    top: 20px;
+}
+
+/* 左側字母索引 */
+.index-card {
+    padding: 15px 5px;
+    border-radius: 20px;
+    background: var(--bg-color);
+    box-shadow: 6px 6px 12px var(--shadow-dark), -6px -6px 12px var(--shadow-light);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.index-letter {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-color);
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+.index-letter:hover {
+    color: var(--accent-color);
+    box-shadow: inset 2px 2px 4px var(--shadow-dark), inset -2px -2px 4px var(--shadow-light);
+}
+
+/* 右側搜尋紀錄 */
+.history-card {
+    padding: 20px;
+    border-radius: 24px;
+    background: var(--bg-color);
+    box-shadow: 8px 8px 16px var(--shadow-dark), -8px -8px 16px var(--shadow-light);
+}
+
+.history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.history-title {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.clear-btn {
+    font-size: 12px;
+    color: #8e8e93;
+    cursor: pointer;
+}
+
+.history-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.history-item {
+    padding: 6px 12px;
+    font-size: 13px;
+    border-radius: 10px;
+    background: var(--bg-color);
+    box-shadow: 3px 3px 6px var(--shadow-dark), -3px -3px 6px var(--shadow-light);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.history-item:active {
+    box-shadow: inset 2px 2px 4px var(--shadow-dark), inset -2px -2px 4px var(--shadow-light);
+}
+
+/* 分組選單標題 */
+.group-header {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--accent-color);
+    padding: 20px 0 10px 20px;
+    scroll-margin-top: 20px;
+    text-shadow: 1px 1px 2px var(--shadow-dark);
+}

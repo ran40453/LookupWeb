@@ -82,12 +82,37 @@
         </div>
     </div>
 
-    <div class="search-container">
-        <input type="text" id="searchInput" class="search-box" placeholder="輸入縮寫或關鍵字…" />
-    </div>
+    <div class="app-container">
+        <!-- 左側字母索引 -->
+        <aside class="left-sidebar">
+            <div id="indexCard" class="index-card">
+                <!-- 動態生成字母 -->
+            </div>
+        </aside>
 
-    <div id="results" class="result">
-        <div class="no-result">載入中…</div>
+        <!-- 中間主要區域 -->
+        <main class="main-content">
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-box" placeholder="輸入縮寫或關鍵字…" />
+            </div>
+
+            <div id="results" class="result">
+                <div class="no-result">載入中…</div>
+            </div>
+        </main>
+
+        <!-- 右側搜尋紀錄 -->
+        <aside class="right-sidebar">
+            <div class="history-card">
+                <div class="history-header">
+                    <span class="history-title">最近搜尋</span>
+                    <span id="clearHistory" class="clear-btn">清除</span>
+                </div>
+                <div id="historyList" class="history-list">
+                    <!-- 動態生成紀錄 -->
+                </div>
+            </div>
+        </aside>
     </div>
 
     <div id="tooltip" class="tooltip"></div>
